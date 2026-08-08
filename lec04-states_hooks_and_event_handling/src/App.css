@@ -1,0 +1,19 @@
+#incBtn {
+    padding: 12px;
+    border-radius: 8px;
+    background-color: green;
+    border: none;
+    margin: 12px;
+    color: white;
+    cursor: pointer;
+}
+
+#decBtn {
+    padding: 12px;
+    border-radius: 8px;
+    background-color: red;
+        border: none;
+    
+        color: white;
+            cursor: pointer;
+}
