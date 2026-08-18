@@ -1,0 +1,9 @@
+.navLink {
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.navLink.active {
+  color: blue;
+}
